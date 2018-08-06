@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/<Header /> should render successfully 1`] = `
+.c0 {
+  background-color: rebeccapurple;
+  margin-bottom: 1.45rem;
+}
+
+.c1 {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 1.45rem 1.0875rem;
+}
+
+.c2 {
+  margin: 0;
+}
+
+.c3 {
+  color: white;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <h1
+      className="c2"
+    >
+      <Link
+        className="c3"
+        to="/"
+      >
+        Hello
+      </Link>
+    </h1>
+  </div>
+</div>
+`;
