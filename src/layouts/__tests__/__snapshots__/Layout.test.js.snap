@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Layout /> should render successfully 1`] = `
+.c0 {
+  background-color: #a6b956;
+  margin-bottom: 1.45rem;
+}
+
+.c1 {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 1.45rem 1.0875rem;
+}
+
+.c2 {
+  margin: 0;
+}
+
+.c3 {
+  color: white;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c4 {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 0 1rem 1.5rem;
+}
+
+<div>
+  <div
+    className="c0"
+  >
+    <div
+      className="c1"
+    >
+      <h1
+        className="c2"
+      >
+        <Link
+          className="c3"
+          to="/"
+        >
+          Mohamed EL FARDI
+        </Link>
+      </h1>
+    </div>
+  </div>
+  <div
+    className="c4"
+  >
+    <h1>
+      Hello
+    </h1>
+  </div>
+</div>
+`;

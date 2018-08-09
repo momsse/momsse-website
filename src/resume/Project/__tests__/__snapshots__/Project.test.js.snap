@@ -1,0 +1,137 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Project /> should render successfully 1`] = `
+.c0 {
+  font-size: 0.75rem;
+}
+
+.c1 {
+  font-weight: bold;
+}
+
+.c2::after {
+  content: ' ';
+}
+
+.c3 {
+  color: #86994d;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c3:hover {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+}
+
+<div
+  className="c0"
+>
+  <p>
+    <span
+      className="c1"
+    >
+      Sauron (real time driver and booking manager)
+       :
+    </span>
+     
+    initialization de la stack et developpement de la web app de gestion de la flotte chauffeurs.
+  </p>
+  <span
+    className="c2"
+  >
+    <a
+      className="c3"
+      href="https://developer.mozilla.org/fr/docs/Web/JavaScript"
+      target="_blank"
+    >
+      Javascript
+      
+    </a>
+  </span>
+  <span
+    className="c2"
+  >
+    <a
+      className="c3"
+      href="https://nodejs.org/en/"
+      target="_blank"
+    >
+      NodeJS
+      
+    </a>
+  </span>
+  <span
+    className="c2"
+  >
+    <a
+      className="c3"
+      href="https://reactjs.org/"
+      target="_blank"
+    >
+      ReactJS
+      
+    </a>
+  </span>
+  <span
+    className="c2"
+  >
+    <a
+      className="c3"
+      href="https://webpack.js.org/"
+      target="_blank"
+    >
+      Webpack
+      
+    </a>
+  </span>
+  <span
+    className="c2"
+  >
+    <a
+      className="c3"
+      href="https://getbootstrap.com/"
+      target="_blank"
+    >
+      Bootstrap
+      
+    </a>
+  </span>
+  <span
+    className="c2"
+  >
+    <a
+      className="c3"
+      href="https://socket.io/"
+      target="_blank"
+    >
+      SocketIO
+      
+    </a>
+  </span>
+  <span
+    className="c2"
+  >
+    <a
+      className="c3"
+      href="https://developer.mozilla.org/fr/docs/Web/API/API_IndexedDB"
+      target="_blank"
+    >
+      IndexedDB
+      
+    </a>
+  </span>
+  <span
+    className="c2"
+  >
+    <a
+      className="c3"
+      href="https://www.mongodb.com/"
+      target="_blank"
+    >
+      MongoDB
+      
+    </a>
+  </span>
+</div>
+`;

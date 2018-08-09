@@ -2,7 +2,7 @@
 
 exports[`components/<Header /> should render successfully 1`] = `
 .c0 {
-  background-color: rebeccapurple;
+  background-color: #a6b956;
   margin-bottom: 1.45rem;
 }
 

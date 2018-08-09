@@ -2,7 +2,7 @@ import styled from 'styled-components'
 import Link from 'gatsby-link'
 
 export const Container = styled.div`
-  background-color: rebeccapurple;
+  background-color: #a6b956;
   margin-bottom: 1.45rem;
 `
 

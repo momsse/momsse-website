@@ -1,0 +1,1345 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Resume /> should render successfully 1`] = `
+.c1 {
+  padding: 0.5rem;
+  background-color: #F0F0F0;
+  border: 1px solid #d4d4d4;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.175);
+}
+
+.c2 {
+  font-size: 1.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.c3 {
+  color: #7f807a;
+  font-size: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.c4 {
+  font-size: 0.75rem;
+}
+
+.c5 {
+  font-weight: bold;
+}
+
+.c6::after {
+  content: ' ';
+}
+
+.c7 {
+  color: #86994d;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c7:hover {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+}
+
+.c0 > div {
+  margin-bottom: 1rem;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+    >
+      Senior Software engineer
+       (
+      Chauffeur privé
+      )
+    </div>
+    <div
+      className="c3"
+    >
+      <svg
+        attr={
+          Object {
+            "viewBox": "0 0 448 512",
+          }
+        }
+        fill="currentColor"
+        height="1em"
+        stroke="currentColor"
+        strokeWidth="0"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        viewBox="0 0 448 512"
+        width="1em"
+      >
+        <path
+          d="M436 160H12c-6.6 0-12-5.4-12-12v-36c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48v36c0 6.6-5.4 12-12 12zM12 192h424c6.6 0 12 5.4 12 12v260c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V204c0-6.6 5.4-12 12-12zm116 204c0-6.6-5.4-12-12-12H76c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm0-128c0-6.6-5.4-12-12-12H76c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm128 128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm0-128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm128 128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm0-128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40z"
+        />
+      </svg>
+       
+      novembre 2015
+    </div>
+    <div
+      className="c4"
+    >
+      <p>
+        <span
+          className="c5"
+        >
+          Driver onboarding
+           :
+        </span>
+         
+        initialization de la stack et developpement de la web app d'onboarding chauffeur
+      </p>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://developer.mozilla.org/fr/docs/Web/JavaScript"
+          target="_blank"
+        >
+          Javascript
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://nodejs.org/en/"
+          target="_blank"
+        >
+          NodeJS
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="http://expressjs.com"
+          target="_blank"
+        >
+          Express
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://reactjs.org/"
+          target="_blank"
+        >
+          ReactJS
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://webpack.js.org/"
+          target="_blank"
+        >
+          Webpack
+          
+        </a>
+      </span>
+    </div>
+    <div
+      className="c4"
+    >
+      <p>
+        <span
+          className="c5"
+        >
+          Sauron (real time driver and booking manager)
+           :
+        </span>
+         
+        initialization de la stack et developpement de la web app de gestion de la flotte chauffeurs.
+      </p>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://developer.mozilla.org/fr/docs/Web/JavaScript"
+          target="_blank"
+        >
+          Javascript
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://nodejs.org/en/"
+          target="_blank"
+        >
+          NodeJS
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="http://expressjs.com"
+          target="_blank"
+        >
+          Express
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://reactjs.org/"
+          target="_blank"
+        >
+          ReactJS
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://webpack.js.org/"
+          target="_blank"
+        >
+          Webpack
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://getbootstrap.com/"
+          target="_blank"
+        >
+          Bootstrap
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://socket.io/"
+          target="_blank"
+        >
+          SocketIO
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://developer.mozilla.org/fr/docs/Web/API/API_IndexedDB"
+          target="_blank"
+        >
+          IndexedDB
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.mongodb.com/"
+          target="_blank"
+        >
+          MongoDB
+          
+        </a>
+      </span>
+    </div>
+    <div
+      className="c4"
+    >
+      <p>
+        <span
+          className="c5"
+        >
+          Driver state (real time driver's state)
+           :
+        </span>
+         
+        initialization de la stack et developpement de l'API d'état des chauffeurs
+      </p>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://developer.mozilla.org/fr/docs/Web/JavaScript"
+          target="_blank"
+        >
+          Javascript
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://nodejs.org/en/"
+          target="_blank"
+        >
+          NodeJS
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="http://expressjs.com"
+          target="_blank"
+        >
+          Express
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.rabbitmq.com/"
+          target="_blank"
+        >
+          RabbitMQ
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.mongodb.com/"
+          target="_blank"
+        >
+          MongoDB
+          
+        </a>
+      </span>
+    </div>
+    <div
+      className="c4"
+    >
+      <p>
+        <span
+          className="c5"
+        >
+          Business backend
+           :
+        </span>
+         
+        migration de l'API monolithique vers une architecture micro services.
+      </p>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://developer.mozilla.org/fr/docs/Web/JavaScript"
+          target="_blank"
+        >
+          Javascript
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://nodejs.org/en/"
+          target="_blank"
+        >
+          NodeJS
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.mongodb.com/"
+          target="_blank"
+        >
+          MongoDB
+          
+        </a>
+      </span>
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+    >
+      Software engineer
+       (
+      Ekino
+      )
+    </div>
+    <div
+      className="c3"
+    >
+      <svg
+        attr={
+          Object {
+            "viewBox": "0 0 448 512",
+          }
+        }
+        fill="currentColor"
+        height="1em"
+        stroke="currentColor"
+        strokeWidth="0"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        viewBox="0 0 448 512"
+        width="1em"
+      >
+        <path
+          d="M436 160H12c-6.6 0-12-5.4-12-12v-36c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48v36c0 6.6-5.4 12-12 12zM12 192h424c6.6 0 12 5.4 12 12v260c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V204c0-6.6 5.4-12 12-12zm116 204c0-6.6-5.4-12-12-12H76c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm0-128c0-6.6-5.4-12-12-12H76c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm128 128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm0-128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm128 128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm0-128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40z"
+        />
+      </svg>
+       
+      juillet 2014 - octobre 2015
+    </div>
+    <div
+      className="c4"
+    >
+      <p>
+        <span
+          className="c5"
+        >
+          Coorpacademy
+           :
+        </span>
+         
+        Application d'e-learning (MOOC).
+      </p>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://developer.mozilla.org/fr/docs/Web/JavaScript"
+          target="_blank"
+        >
+          Javascript
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://nodejs.org/en/"
+          target="_blank"
+        >
+          NodeJS
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://angular.io/"
+          target="_blank"
+        >
+          AngularJS
+           1.x
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.mongodb.com/"
+          target="_blank"
+        >
+          MongoDB
+          
+        </a>
+      </span>
+    </div>
+    <div
+      className="c4"
+    >
+      <p>
+        <span
+          className="c5"
+        >
+          SFR
+           :
+        </span>
+         
+        Backend d'une application de gestion des ventes de forfaits mobile et fixes.
+      </p>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.oracle.com/fr/java/"
+          target="_blank"
+        >
+          Java
+           8
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://spring.io/"
+          target="_blank"
+        >
+          Spring
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="http://tomcat.apache.org/"
+          target="_blank"
+        >
+          Tomcat
+           8
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.oracle.com/fr/database/index.html"
+          target="_blank"
+        >
+          Oracle
+          
+        </a>
+      </span>
+    </div>
+    <div
+      className="c4"
+    >
+      <p>
+        <span
+          className="c5"
+        >
+          SFR
+           :
+        </span>
+         
+        Backend d'une application mobile assistant les vendeurs lors des ventes en boutique physique.
+      </p>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.oracle.com/fr/java/"
+          target="_blank"
+        >
+          Java
+           8
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://jersey.github.io/"
+          target="_blank"
+        >
+          Jersey
+           2
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://spring.io/"
+          target="_blank"
+        >
+          Spring
+           4
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="http://tomcat.apache.org/"
+          target="_blank"
+        >
+          Tomcat
+           8
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.oracle.com/fr/database/index.html"
+          target="_blank"
+        >
+          Oracle
+          
+        </a>
+      </span>
+    </div>
+    <div
+      className="c4"
+    >
+      <p>
+        <span
+          className="c5"
+        >
+          SFR
+           :
+        </span>
+         
+        API permettant la collecte d'information des visiteurs lors de leurs passages en boutique physique et/ou en ligne.
+      </p>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.oracle.com/fr/java/"
+          target="_blank"
+        >
+          Java
+           7
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://spring.io/"
+          target="_blank"
+        >
+          Spring
+           4
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://spring.io/projects/spring-batch"
+          target="_blank"
+        >
+          SpringBatch
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="http://tomcat.apache.org/"
+          target="_blank"
+        >
+          Tomcat
+           7
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.mongodb.com/"
+          target="_blank"
+        >
+          MongoDB
+          
+        </a>
+      </span>
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+    >
+      Software engineer
+       (
+      Groupe Onepoint
+      )
+    </div>
+    <div
+      className="c3"
+    >
+      <svg
+        attr={
+          Object {
+            "viewBox": "0 0 448 512",
+          }
+        }
+        fill="currentColor"
+        height="1em"
+        stroke="currentColor"
+        strokeWidth="0"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        viewBox="0 0 448 512"
+        width="1em"
+      >
+        <path
+          d="M436 160H12c-6.6 0-12-5.4-12-12v-36c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48v36c0 6.6-5.4 12-12 12zM12 192h424c6.6 0 12 5.4 12 12v260c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V204c0-6.6 5.4-12 12-12zm116 204c0-6.6-5.4-12-12-12H76c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm0-128c0-6.6-5.4-12-12-12H76c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm128 128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm0-128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm128 128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm0-128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40z"
+        />
+      </svg>
+       
+      novembre 2011 - juin 2014
+    </div>
+    <div
+      className="c4"
+    >
+      <p>
+        <span
+          className="c5"
+        >
+          Ministère de la Justice
+           :
+        </span>
+         
+         TMA de l'ensemble applicatif de gestion de la chaîne pénale (KCOP).
+      </p>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.oracle.com/fr/java/"
+          target="_blank"
+        >
+          Java
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://struts.apache.org/"
+          target="_blank"
+        >
+          Struts
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://fr.wikipedia.org/wiki/Enterprise_JavaBeans"
+          target="_blank"
+        >
+          EJB
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="http://hibernate.org/"
+          target="_blank"
+        >
+          Hibernate
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="http://www.jboss.org/"
+          target="_blank"
+        >
+          JBoss
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.oracle.com/fr/database/index.html"
+          target="_blank"
+        >
+          Oracle
+          
+        </a>
+      </span>
+    </div>
+    <div
+      className="c4"
+    >
+      <p>
+        <span
+          className="c5"
+        >
+          BMW
+           :
+        </span>
+         
+        Développement de la 2nd version du portail du groupe.
+      </p>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.oracle.com/fr/java/"
+          target="_blank"
+        >
+          Java
+           6
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="http://www.oracle.com/technetwork/java/javaee/javaserverfaces-139869.html"
+          target="_blank"
+        >
+          JSF
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://fr.wikipedia.org/wiki/Enterprise_JavaBeans"
+          target="_blank"
+        >
+          EJB
+           3.1
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="http://www.oracle.com/technetwork/middleware/glassfish/overview/index.html"
+          target="_blank"
+        >
+          Glassfish
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.oracle.com/fr/database/index.html"
+          target="_blank"
+        >
+          Oracle
+          
+        </a>
+      </span>
+    </div>
+    <div
+      className="c4"
+    >
+      <p>
+        <span
+          className="c5"
+        >
+          SFR
+           :
+        </span>
+         
+        Refonte de l'application de facturation/comptabilité du groupe SFR (RefCCOP). 
+      </p>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.oracle.com/fr/java/"
+          target="_blank"
+        >
+          Java
+           6
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://wicket.apache.org/"
+          target="_blank"
+        >
+          Wicket
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://spring.io/"
+          target="_blank"
+        >
+          Spring
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="http://hibernate.org/"
+          target="_blank"
+        >
+          Hibernate
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="http://tomcat.apache.org/"
+          target="_blank"
+        >
+          Tomcat
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.oracle.com/fr/database/index.html"
+          target="_blank"
+        >
+          Oracle
+          
+        </a>
+      </span>
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+    >
+      Student software engineer
+       (
+      Scalian
+      )
+    </div>
+    <div
+      className="c3"
+    >
+      <svg
+        attr={
+          Object {
+            "viewBox": "0 0 448 512",
+          }
+        }
+        fill="currentColor"
+        height="1em"
+        stroke="currentColor"
+        strokeWidth="0"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        viewBox="0 0 448 512"
+        width="1em"
+      >
+        <path
+          d="M436 160H12c-6.6 0-12-5.4-12-12v-36c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48v36c0 6.6-5.4 12-12 12zM12 192h424c6.6 0 12 5.4 12 12v260c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V204c0-6.6 5.4-12 12-12zm116 204c0-6.6-5.4-12-12-12H76c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm0-128c0-6.6-5.4-12-12-12H76c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm128 128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm0-128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm128 128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm0-128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40z"
+        />
+      </svg>
+       
+      avril 2011 - septembre 2011
+    </div>
+    <div
+      className="c4"
+    >
+      <p>
+        <span
+          className="c5"
+        >
+          Youkan
+           :
+        </span>
+         
+        Développement de la troisième version d’une application web de gestion de projet agile en ligne. 
+      </p>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.oracle.com/fr/java/"
+          target="_blank"
+        >
+          Java
+           6
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="http://flex.apache.org/"
+          target="_blank"
+        >
+          Flex
+           4.5
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://spring.io/"
+          target="_blank"
+        >
+          Spring
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="http://ibatis.apache.org/"
+          target="_blank"
+        >
+          iBatis
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="http://tomcat.apache.org/"
+          target="_blank"
+        >
+          Tomcat
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.postgresql.org/"
+          target="_blank"
+        >
+          PostgreSQL
+          
+        </a>
+      </span>
+    </div>
+    <div
+      className="c4"
+    >
+      <p>
+        <span
+          className="c5"
+        >
+          BMW
+           :
+        </span>
+         
+        Développement de la 2nd version du portail du groupe.
+      </p>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.oracle.com/fr/java/"
+          target="_blank"
+        >
+          Java
+           6
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="http://www.oracle.com/technetwork/java/javaee/javaserverfaces-139869.html"
+          target="_blank"
+        >
+          JSF
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://fr.wikipedia.org/wiki/Enterprise_JavaBeans"
+          target="_blank"
+        >
+          EJB
+           3.1
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="http://www.oracle.com/technetwork/middleware/glassfish/overview/index.html"
+          target="_blank"
+        >
+          Glassfish
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.oracle.com/fr/database/index.html"
+          target="_blank"
+        >
+          Oracle
+          
+        </a>
+      </span>
+    </div>
+    <div
+      className="c4"
+    >
+      <p>
+        <span
+          className="c5"
+        >
+          SFR
+           :
+        </span>
+         
+        Refonte de l'application de facturation/comptabilité du groupe SFR (RefCCOP). 
+      </p>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.oracle.com/fr/java/"
+          target="_blank"
+        >
+          Java
+           6
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://wicket.apache.org/"
+          target="_blank"
+        >
+          Wicket
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://spring.io/"
+          target="_blank"
+        >
+          Spring
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="http://hibernate.org/"
+          target="_blank"
+        >
+          Hibernate
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="http://tomcat.apache.org/"
+          target="_blank"
+        >
+          Tomcat
+          
+        </a>
+      </span>
+      <span
+        className="c6"
+      >
+        <a
+          className="c7"
+          href="https://www.oracle.com/fr/database/index.html"
+          target="_blank"
+        >
+          Oracle
+          
+        </a>
+      </span>
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+    >
+      Master Génie Logiciel 
+       (
+      Université de Bordeaux
+      )
+    </div>
+    <div
+      className="c3"
+    >
+      <svg
+        attr={
+          Object {
+            "viewBox": "0 0 448 512",
+          }
+        }
+        fill="currentColor"
+        height="1em"
+        stroke="currentColor"
+        strokeWidth="0"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        viewBox="0 0 448 512"
+        width="1em"
+      >
+        <path
+          d="M436 160H12c-6.6 0-12-5.4-12-12v-36c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48v36c0 6.6-5.4 12-12 12zM12 192h424c6.6 0 12 5.4 12 12v260c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V204c0-6.6 5.4-12 12-12zm116 204c0-6.6-5.4-12-12-12H76c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm0-128c0-6.6-5.4-12-12-12H76c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm128 128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm0-128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm128 128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm0-128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40z"
+        />
+      </svg>
+       
+      septembre 2006 - octobre 2011
+    </div>
+    <div
+      className="c4"
+    >
+      <p>
+         
+        Préparation d'une Licence puis d'un Master spécialité génie logiciel à l'université de Bordeaux (M. Bien).
+      </p>
+    </div>
+  </div>
+</div>
+`;

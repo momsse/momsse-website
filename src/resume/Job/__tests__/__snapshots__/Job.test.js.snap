@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Job /> should render successfully 1`] = `
+.c0 {
+  padding: 0.5rem;
+  background-color: #F0F0F0;
+  border: 1px solid #d4d4d4;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.175);
+}
+
+.c1 {
+  font-size: 1.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.c2 {
+  color: #7f807a;
+  font-size: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    Software engineer
+     (
+    Chauffeur privé
+    )
+  </div>
+  <div
+    className="c2"
+  >
+    <svg
+      attr={
+        Object {
+          "viewBox": "0 0 448 512",
+        }
+      }
+      fill="currentColor"
+      height="1em"
+      stroke="currentColor"
+      strokeWidth="0"
+      style={
+        Object {
+          "color": undefined,
+        }
+      }
+      viewBox="0 0 448 512"
+      width="1em"
+    >
+      <path
+        d="M436 160H12c-6.6 0-12-5.4-12-12v-36c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48v36c0 6.6-5.4 12-12 12zM12 192h424c6.6 0 12 5.4 12 12v260c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V204c0-6.6 5.4-12 12-12zm116 204c0-6.6-5.4-12-12-12H76c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm0-128c0-6.6-5.4-12-12-12H76c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm128 128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm0-128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm128 128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40zm0-128c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12v-40z"
+      />
+    </svg>
+     
+    novembre 2015
+  </div>
+  Hello
+</div>
+`;
