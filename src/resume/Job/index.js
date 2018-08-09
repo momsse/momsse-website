@@ -1,5 +1,5 @@
 import React, { PropTypes } from 'react'
-import { FaCalendarAlt } from 'react-icons/fa'
+import Calendar from 'react-icons/lib/fa/calendar'
 import moment from 'moment';
 
 moment.locale('fr-FR');
@@ -17,7 +17,7 @@ const Job = ({ enterprise, position, startDate, endDate, children }) => (
   <Container>
     <Title>{position} ({enterprise})</Title>
     <Period>
-      <FaCalendarAlt /> {formatPeriod(startDate, endDate)}
+      <Calendar /> {formatPeriod(startDate, endDate)}
     </Period>
     {children}
   </Container>
