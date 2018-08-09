@@ -17,6 +17,9 @@ export const Technology = styled.span`
 export const TechnologyLink = styled.a.attrs({ target: '_blank' })`
   color: #86994d;
   text-decoration: none;
+  @media print {
+    color: darken(#86994d, 25%)
+  }
 
   &:hover {
     text-decoration: underline;

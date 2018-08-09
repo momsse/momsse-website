@@ -24,6 +24,12 @@ exports[`<Project /> should render successfully 1`] = `
   text-decoration: underline;
 }
 
+@media print {
+  .c3 {
+    color: darken(#86994d,25%);
+  }
+}
+
 <div
   className="c0"
 >
