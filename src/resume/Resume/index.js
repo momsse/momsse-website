@@ -179,31 +179,6 @@ const Resume = () => (
           technologies.PostgreSQL,
         ]}
       />
-
-      <Project
-        title="BMW"
-        abstract="Développement de la 2nd version du portail du groupe."
-        technologies={[
-          { ...technologies.Java, version: '6' },
-          technologies.JSF,
-          { ...technologies.EJB, version: '3.1' },
-          technologies.Glassfish,
-          technologies.Oracle,
-        ]}
-      />
-
-      <Project
-        title="SFR"
-        abstract="Refonte de l'application de facturation/comptabilité du groupe SFR (RefCCOP). "
-        technologies={[
-          { ...technologies.Java, version: '6' },
-          technologies.Wicket,
-          technologies.Spring,
-          technologies.Hibernate,
-          technologies.Tomcat,
-          technologies.Oracle,
-        ]}
-      />
     </Job>
 
     <Job
