@@ -1,5 +1,7 @@
 # momsse.github.io
 
+[![CircleCI](https://circleci.com/gh/momsse/momsse-website/tree/master.svg?style=shield)](https://circleci.com/gh/momsse/momsse-website/tree/master)
+
 ### Getting started
 
 Run gastby dev server:
@@ -14,7 +16,7 @@ Run storybook:
 
 #### With momsse.github.io:
 
-    yarn develop
+    yarn deploy
 
 #### Using `dokku`:
 
@@ -30,4 +32,3 @@ Setup:
 Deploy:
 
     git push dokku master
-
